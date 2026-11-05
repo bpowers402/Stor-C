@@ -1,4 +1,4 @@
 print("Hello World")
-x <- 4
-y <- 10
+x <- 15
+y <- 29
 x+y
